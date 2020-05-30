@@ -1,0 +1,6 @@
+FindElements
+ [x] Headings
+ [x] Paragraphs
+ [x] Lists
+ [x] Classes
+

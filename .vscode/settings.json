@@ -1,0 +1,5 @@
+{
+  "phpcs.executablePath": "vendor/bin/phpcs",
+  "intelephense.format.enable": false,
+  "intelephense.diagnostics.undefinedFunctions": false
+}
