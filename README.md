@@ -4,9 +4,9 @@ Tags: seo,accessibility,links
 Requires at least: 5.4.1  
 Tested up to: 5.4.2  
 Requires PHP: 7.3  
-Stable tag: 1.0.7  
 License: GPL 2  
 License URI: http://www.gnu.org/licenses/gpl-2.0.txt
+Stable tag: 1.0.7
 
 A plugin that adds ID attributes heading, paragraph, and list elements
 
