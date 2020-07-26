@@ -1,5 +1,5 @@
 # Identify Headings #
-Stable tag: 1.0.3  
+Stable tag: 1.0.4  
 Contributors: secretsource,tedmaster  
 Tags: seo,accessibility,links  
 Requires at least: 5.4.1  
