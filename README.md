@@ -19,6 +19,8 @@ This plugin does not modify the display of your content at all. It simply adds m
 
 This plugin does not have any configuration screens. No configuration is required.
 
+[See this page](https://code.visualstudio.com/docs/supporting/faq) for an example of how this plugin could be enhanced (when you roll over a heading, a hash character appears to tell you you can link to it).
+
 # Installation #
 There are no special requirements to install this plugin. Just use the standard WordPress plugin installation routine.
 
