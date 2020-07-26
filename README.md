@@ -6,9 +6,9 @@ Tested up to: 5.4.2
 Requires PHP: 7.3  
 License: GPL 2  
 License URI: http://www.gnu.org/licenses/gpl-2.0.txt
-Stable tag: 1.0.7
+Stable tag: 1.0.8
 
-A plugin that adds ID attributes heading, paragraph, and list elements
+A plugin that adds ID attributes to heading, paragraph, and list elements
 
 # Identify Headings - Allow visitors to link to parts of your page by automatically adding IDs to important elements #
 

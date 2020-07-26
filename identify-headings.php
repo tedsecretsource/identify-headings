@@ -7,7 +7,7 @@
  * Author URI:      https://secret-source.eu
  * Text Domain:     identify-headings
  * Domain Path:     /languages
- * Version:         0.1.0
+ * Version:         1.0.8
  *
  * @package         Identify_Headings
  */
