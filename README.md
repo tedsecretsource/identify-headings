@@ -1,5 +1,5 @@
 # Identify Headings #
-Stable tag: 1.0.5  
+Stable tag: 1.0.6  
 Contributors: secretsource,tedmaster  
 Tags: seo,accessibility,links  
 Requires at least: 5.4.1  
@@ -30,6 +30,7 @@ There are no special requirements to install this plugin. Just use the standard 
 
 # Changelog #
 
+1.0.6 - This readme file was being removed prior to deployment. Fixed
 1.0.5 - Removed some deployment automation folders from the release
 1.0.4 - Updated this readme and fixed some deployment automation issues
 1.0 - Initial release
