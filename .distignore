@@ -8,6 +8,8 @@
 .git
 .gitignore
 .gitlab-ci.yml
+.github
+.wordpress-org
 .travis.yml
 .DS_Store
 .vscode
