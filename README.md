@@ -30,4 +30,5 @@ There are no special requirements to install this plugin. Just use the standard 
 
 # Changelog #
 
+1.0.4 - Updated this readme and fixed some deployment automation issues
 1.0 - Initial release
