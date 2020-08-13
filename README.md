@@ -1,7 +1,7 @@
 # Identify Headings #
 Contributors: secretsource,tedmaster  
 Tags: seo,accessibility,links  
-Requires at least: 5.4.1  
+Requires at least: 5.4  
 Tested up to: 5.4.2  
 Requires PHP: 7.3  
 License: GPL 2  
@@ -11,6 +11,8 @@ Stable tag: 1.0.8
 A plugin that adds ID attributes to heading, paragraph, and list elements
 
 # Identify Headings - Allow visitors to link to parts of your page by automatically adding IDs to important elements #
+
+https://www.youtube.com/watch?v=ABR-nzAYs9I
 
 This small and unintrusive plugin adds ID attributes to all heading, paragraph, and list elements in a post or page. It does not modify existing IDs.
 
@@ -30,6 +32,7 @@ There are no special requirements to install this plugin. Just use the standard 
 
 # Changelog #
 
+1.0.8 - Fussing with this README (and adding a link to an explanatory video)
 1.0.6 - This readme file was being removed prior to deployment. Fixed
 1.0.5 - Removed some deployment automation folders from the release
 1.0.4 - Updated this readme and fixed some deployment automation issues
